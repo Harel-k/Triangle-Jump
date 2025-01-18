@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&family=Pixelify+Sans:wght@400..700&display=swap');
+
+body{
+    background-color:  rgb(251, 182, 64);
+    font-family: "Pixelify Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+}
+#made-with-scratch{
+font-weight: bold;
+font-size: 27px;
+color: coral;
+}
+#my-profile{
+font-weight: bold;
+font-size: 25px;
+color: darksalmon;
+}
